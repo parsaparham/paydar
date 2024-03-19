@@ -1,0 +1,73 @@
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\perspolis\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Downloads\Compressed\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Downloads\Compressed\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Downloads\Compressed\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Raysan Co\راهنما\Web Service\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Raysan Co\راهنما\Web Service\SMS\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Raysan Co\راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Raysan Co\راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Raysan Co\راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\_Raysan Co\پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSMS.resources
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\_Raysan Co\_پیامک\_راهنما\_WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.frmSMS.resources
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\_Raysan Co\_پیامک\_راهنما\WebService - Final\C# Sample\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

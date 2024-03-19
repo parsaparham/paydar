@@ -1,0 +1,6 @@
+E:\My Projects\Programming\Class Library\PayamakPardazWebService\PayamakPardazWebService\bin\Debug\PayamakPardazWebService.dll.config
+E:\My Projects\Programming\Class Library\PayamakPardazWebService\PayamakPardazWebService\bin\Debug\PayamakPardazWebService.dll
+E:\My Projects\Programming\Class Library\PayamakPardazWebService\PayamakPardazWebService\bin\Debug\PayamakPardazWebService.pdb
+E:\My Projects\Programming\Class Library\PayamakPardazWebService\PayamakPardazWebService\obj\Debug\PayamakPardazWebService.csprojResolveAssemblyReference.cache
+E:\My Projects\Programming\Class Library\PayamakPardazWebService\PayamakPardazWebService\obj\Debug\PayamakPardazWebService.dll
+E:\My Projects\Programming\Class Library\PayamakPardazWebService\PayamakPardazWebService\obj\Debug\PayamakPardazWebService.pdb

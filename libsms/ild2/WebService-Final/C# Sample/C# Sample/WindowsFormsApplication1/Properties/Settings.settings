@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WindowsFormsApplication1_com_payamakpardaz_panel_smsSendWebServiceforPHP" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://panel.payamakpardaz.com/smssendwebserviceforphp.asmx</Value>
+    </Setting>
+    <Setting Name="WindowsFormsApplication1_ir_kanoonesms_panel_smsSendWebServiceforPHP" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://panel.kanoonesms.ir/smssendwebserviceforphp.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
